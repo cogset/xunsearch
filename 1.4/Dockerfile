@@ -5,7 +5,7 @@ FROM debian:jessie
 
 MAINTAINER Cogset <cogset@funcuter.org>
 
-ENV XUNSEARCH_VERSION 1.4.10
+ENV XUNSEARCH_VERSION 1.4.12
 
 # Install
 RUN buildDeps="wget make gcc g++ bzip2 zlib1g-dev" \
