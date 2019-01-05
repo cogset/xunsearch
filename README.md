@@ -3,7 +3,7 @@
 [![layers badge](https://images.microbadger.com/badges/image/cogset/xunsearch.svg)](https://microbadger.com/images/cogset/xunsearch)
 ### Supported tags and respective Dockerfile links
 
-+ `1.4.12`, `1.4`, `latest` [(1.4/Dockerfile)](https://github.com/cogset/xunsearch/blob/master/1.4/Dockerfile)
++ `1.4.13`, `1.4`, `latest` [(1.4/Dockerfile)](https://github.com/cogset/xunsearch/blob/master/1.4/Dockerfile)
 
 ------
 ### Software website
